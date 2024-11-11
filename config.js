@@ -1,7 +1,7 @@
 require("dotenv").config();
 
 module.exports = {
-    token: process.env.TOKEN || "MTMwNTU2NTYzMjYxMTM1Njc0NA.GyXAnJ.NFozGFH5WQyVHO_beg-KHtBNJd8LVt6iBxyifg",
+    token: process.env.TOKEN || "MTMwNTU2NTYzMjYxMTM1Njc0NA.GiIMPe.U3A7ra17jjG6BAfkxNHSjwle102vpVx8aYqQtc",
     clientID: process.env.CLIENT_ID || "1305565632611356744", 
     prefix: process.env.PREFIX || ".", 
     ownerID: process.env.OWNER_ID || "1111305362935656488",
